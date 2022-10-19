@@ -1,0 +1,15 @@
+{
+  "imports": {
+    "$fresh/": "https://deno.land/x/fresh@1.1.2/",
+    "preact": "https://esm.sh/preact@10.11.0",
+    "preact/": "https://esm.sh/preact@10.11.0/",
+    "preact-render-to-string": "https://esm.sh/*preact-render-to-string@5.2.4",
+    "@preact/signals": "https://esm.sh/*@preact/signals@1.0.3",
+    "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.0.1",
+    "oauth2_client": "https://deno.land/x/oauth2_client/mod.ts",
+    "$std/": "https://deno.land/std@0.160.0/",
+    "dotenv/": "https://deno.land/x/dotenv@v3.2.0/",
+    "djwt/": "https://deno.land/x/djwt@v2.7/",
+    "deno_csrf/": "https://deno.land/x/deno_csrf@0.0.5/"
+  }
+}
